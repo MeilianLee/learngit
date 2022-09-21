@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Test for new brand.
 Also test for new brand.
 Debug
+This is a change from issue-101 branch.
