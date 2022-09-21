@@ -5,3 +5,7 @@ Test for new brand.
 Also test for new brand.
 Debug
 This is a change from issue-101 branch.
+<<<<<<< HEAD
+=======
+Sovle conflict.
+>>>>>>> dev
